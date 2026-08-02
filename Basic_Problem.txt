@@ -1,0 +1,40 @@
+Basic Problems:
+Write a program to find the max element in an  array. 
+Write a program to find the min element in an array. 
+Write a program to find the addition of all elements in an array.
+Write a program to find multiplication of all elements in an array. 
+ 
+Write a program to find and remove given value from an array.(If value exist multiple times, then remove all)
+
+Problem 1: 
+Find an element in Given Array.
+
+Problem 2: 
+Find Frequency of given element in Given Array. Print index numbers also.
+
+Problem 3: 
+Find Frequency of each element in Given Array.
+
+Problem 4: 
+Find Missing Number in Given Array.
+
+Problem 5: 
+Remove Duplicates values from Array WITH  sorting: 
+
+Problem 6: 
+Remove Duplicates values from Array WITHOUT sorting: 
+
+Problem 7: 
+Find Kth largest number  in the given array.
+
+Problem 8: 
+Reverse the given Array.
+
+Problem 9: 
+Reverse the given Array from a selected index(start index and end index is given by user).
+
+Problem 10: 
+Rotates the given array to the right by k steps.
+
+Problem 11: 
+Print all non-repetitive numbers in the given array.
